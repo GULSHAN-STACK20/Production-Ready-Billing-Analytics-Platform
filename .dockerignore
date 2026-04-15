@@ -1,0 +1,13 @@
+# .dockerignore
+
+# Exclude node_modules
+node_modules/
+
+# Exclude build artifacts
+build/
+
+# Exclude git files
+.git/
+
+# Exclude environment-specific files
+*.env
